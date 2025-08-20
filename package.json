@@ -35,6 +35,5 @@
     "examples/*"
   ],
   "dependencies": {
-    "markdown-toc": "^1.2.0"
   }
 }
